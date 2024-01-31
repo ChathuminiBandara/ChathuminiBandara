@@ -14,9 +14,6 @@
 <a href="https://fb.com/chathuminibandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chathuminibandara" height="30" width="40" /></a>
 <a href="https://instagram.com/chathuminibandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chathuminibandara" height="30" width="40" /></a>
 </p>
-# My Awesome Project
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChathuminiBandara&layout=compact&hide=,other&access_token=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)](https://github.com/ChathuminiBandara)
 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChathuminiBandara&layout=compact)](https://github.com/ChathuminiBandara)
