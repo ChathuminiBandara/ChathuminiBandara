@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathuminibandara&label=Profile%20views&color=0e75b6&style=flat" alt="chathuminibandara" /> </p>
 
 
-- 🔭 I’m currently working on [my semester final project](https://github.com/ChathuminiBandara/LepiLInk)
+- 🔭 I’m currently working on [Internet Technologies](https://github.com/ChathuminiBandara/CSS_HTML_LEC)
 
 - 📫 How to reach me **chathubandara500@gmail.com**
 
