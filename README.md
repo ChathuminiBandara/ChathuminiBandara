@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/chathuminibandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chathuminibandara" height="30" width="40" /></a>
 <a href="https://fb.com/chathuminibandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chathuminibandara" height="30" width="40" /></a>
-<a href="https://instagram.com/chathuminibandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chathuminibandara" height="30" width="40" /></a>
+<a href="https://www.instagram.com/3_8_1_20_8_22__2_1_14_4_1_18_1?igsh=OHRlNnVyY2tyMjcw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chathuminibandara" height="30" width="40" /></a>
 <a href="https://medium.com/@chathubandara500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chathubandara500" height="30" width="40" /></a>
 
 </p>
