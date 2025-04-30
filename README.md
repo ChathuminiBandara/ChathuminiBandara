@@ -2,6 +2,9 @@
 
 
 <h1 align="center">Hi ✌🏻, I'm Chathumini Bandara</h1>
+  <span>
+    <img style="vertical-align: middle;" width="40" height="40" alt="Kawai" align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zjc3IzeXJ2eWphd3Rsbzg4aWg3ZW1kMGp5MjJ2emxoYTE5M3pnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFPLtlXfskcbU6tigb/giphy.gif" />
+  </span>
 <h3 align="center">A Passionate Fullstack Developer from Sri Lanka 🚀</h3>
 
 <p align="center">
@@ -57,21 +60,52 @@
 </p>
 
 
----
-
 
 ---
+  <span>
+    <img style="vertical-align: middle;" width="40" height="40" alt="Kawai" align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5tcXRzZm11bGtvNWJyYW4wanF5NnplbjZjY29la215cWllYjc5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wIUQQ07BHzDry/giphy.gif" />
+  </span>
 
-## 📫 Connect with Me
+#  Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/chathuminibandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chathuminibandara" height="30" width="40" /></a>
-<a href="https://fb.com/chathuminibandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chathuminibandara" height="30" width="40" /></a>
-<a href="https://www.instagram.com/3_8_1_20_8_22__2_1_14_4_1_18_1?igsh=OHRlNnVyY2tyMjcw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chathuminibandara" height="30" width="40" /></a>
-<a href="https://medium.com/@chathubandara500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chathubandara500" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/chathuminibandara" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chathuminibandara" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/chathuminibandara" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chathuminibandara" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/3_8_1_20_8_22__2_1_14_4_1_18_1?igsh=OHRlNnVyY2tyMjcw" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chathuminibandara" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@chathubandara500" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chathubandara500" height="30" width="40" />
+  </a>
+
+</p>
+<!-- <br>
+  <span>
+    <img  align="center" style="" width="40" height="40" alt="Kawai" align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zjc3IzeXJ2eWphd3Rsbzg4aWg3ZW1kMGp5MjJ2emxoYTE5M3pnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFPLtlXfskcbU6tigb/giphy.gif" />
+  </span>
+  <span>
+    <img style="" width="40" height="40" alt="Kawai" align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zjc3IzeXJ2eWphd3Rsbzg4aWg3ZW1kMGp5MjJ2emxoYTE5M3pnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFPLtlXfskcbU6tigb/giphy.gif" />
+  </span>
+  <span>
+    <img style="" width="40" height="40" alt="Kawai" align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zjc3IzeXJ2eWphd3Rsbzg4aWg3ZW1kMGp5MjJ2emxoYTE5M3pnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFPLtlXfskcbU6tigb/giphy.gif" />
+  </span>
+  <span>
+    <img style="" width="40" height="40" alt="Kawai" align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zjc3IzeXJ2eWphd3Rsbzg4aWg3ZW1kMGp5MjJ2emxoYTE5M3pnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFPLtlXfskcbU6tigb/giphy.gif" />
+  </span>
+  <span>
+    <img style="" width="40" height="40" alt="Kawai" align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zjc3IzeXJ2eWphd3Rsbzg4aWg3ZW1kMGp5MjJ2emxoYTE5M3pnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFPLtlXfskcbU6tigb/giphy.gif" />
+  </span>
+  <span>
+    <img style="" width="40" height="40" alt="Kawai" align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zjc3IzeXJ2eWphd3Rsbzg4aWg3ZW1kMGp5MjJ2emxoYTE5M3pnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFPLtlXfskcbU6tigb/giphy.gif" />
+  </span>
+<br> -->
+
+<br>
 
 
-
----
 
 ## 🚀 Latest Blog Posts
 🔹 Check out my latest blogs on [Medium](https://medium.com/@chathubandara500)
