@@ -21,7 +21,8 @@
     <img style="vertical-align: middle;" width="40" height="40" alt="Kawaii" align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zjc3IzeXJ2eWphd3Rsbzg4aWg3ZW1kMGp5MjJ2emxoYTE5M3pnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFPLtlXfskcbU6tigb/giphy.gif" />
   </span>
 <h3 align="center">A Passionate Fullstack Developer from Sri Lanka.</h3>
-
+ <span>
+    <img style="vertical-align: middle;" width="80" height="80" alt="Kawaii" align="left" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Mm5hemtodGJsZzNxeGIxdGExdDdmYW1xNTBtaTJ0dG5lZDYycHkwMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lTH5TD6XRDo5k6ICzS/giphy.gif" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
