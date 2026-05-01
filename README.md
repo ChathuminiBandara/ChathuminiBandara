@@ -14,9 +14,6 @@
 </p>
 
 ---
-
-# ✨ About Me
-
 <div align="center">
 
 ### Creating beautiful things through code ✦
@@ -34,16 +31,9 @@ I love building products that combine:
 
 </div>
 
----
 
-<h2 align="center">
-  <img src="./assets/icon_tech.png" width="30" style="vertical-align: middle;" /> Tech Stack
-</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nextjs,react,ts,js,nodejs,mysql,mongodb,firebase,docker,aws,git,github,figma&theme=dark" />
-</p>
+✦ ──────────────────────────────────────────────────── ✦
 
----
 
 <h2 align="center">
   <img src="./assets/icon_projects.png" width="30" style="vertical-align: middle;" /> Featured Projects
@@ -75,19 +65,7 @@ I love building products that combine:
 </tr>
 </table>
 
----
-
-<h2 align="center">
-  <img src="./assets/icon_analytics.png" width="30" style="vertical-align: middle;" /> GitHub Analytics
-</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChathuminiBandara&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChathuminiBandara&theme=tokyonight&hide_border=true&border_radius=20" height="180"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChathuminiBandara&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="180"/>
-</div>
-
----
+✦ ──────────────────────────────────────────────────── ✦
 
 <h2 align="center">
   <img src="./assets/icon_connect.png" width="30" style="vertical-align: middle;" /> Connect With Me
