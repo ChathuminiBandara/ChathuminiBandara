@@ -10,38 +10,29 @@
 </p>
 
 <p align="center">
-  <code>| Founder ✦ Developer ✦ Designer ✦ Java Developer ✦ FrontEnd Developer ✦ UI/UX Designer |</code>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=FF7EB6&center=true&vCenter=true&width=800&lines=Building+beautiful+things+with+code+✦;Founder+✦+Developer+✦+Designer;Clean+Code+•+Great+Design+•+Real+Impact" />
 </p>
 
 ---
 
-<h2 align="center">
-  <img src="./assets/icon_about.png" width="30" style="vertical-align: middle;" /> About Me <img src="./assets/icon_about.png" width="30" style="vertical-align: middle;" />
-</h2>
+# ✨ About Me
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Who am I?</h3>
-      <p>I'm a passionate fullstack developer and designer who loves turning ideas into real products. I enjoy building clean, scalable and impactful solutions with a focus on great user experience.</p>
-      <p><i><span style="color:#FF7EB6">Let's build something amazing together! 💕</span></i></p>
-    </td>
-    <td width="50%" valign="top">
-      <b>📍 Location:</b> Sri Lanka 🇱🇰<br><br>
-      <b>🎯 Current Focus:</b> Fullstack Development<br><br>
-      <b>💡 Interests:</b> Tech • Design • AI • Open Source<br><br>
-      <b>🛠 Specialties:</b>
-      <ul>
-        <li>Java</li>
-        <li>Spring Boot</li>
-        <li>Next.js</li>
-        <li>React</li>
-        <li>UI/UX Design</li>
-        <li>AWS</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### Creating beautiful things through code ✦
+
+I’m **Chathumini Bandara** —  
+a passionate **Fullstack Engineer + Designer** from **Sri Lanka 🇱🇰**
+
+I love building products that combine:
+
+**Elegant Design** ✦ **Scalable Architecture** ✦ **Meaningful UX**
+
+<br>
+
+> *"Clean code. Great design. Real impact."*
+
+</div>
 
 ---
 
