@@ -32,7 +32,7 @@ I love building products that combine:
 </div>
 
 
-✦ ──────────────────────────────────────────────────── ✦
+<p align="center">✦ ──────────────────────────────────────────────────── ✦</p>
 
 
 <h2 align="center">
@@ -65,7 +65,7 @@ I love building products that combine:
 </tr>
 </table>
 
-✦ ──────────────────────────────────────────────────── ✦
+<p align="center">✦ ──────────────────────────────────────────────────── ✦</p>
 
 <h2 align="center">
   <img src="./assets/icon_connect.png" width="30" style="vertical-align: middle;" /> Connect With Me
