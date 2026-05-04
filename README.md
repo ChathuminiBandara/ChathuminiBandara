@@ -2,16 +2,13 @@
   <img src="./assets/header.png" width="100%" alt="Header Banner" />
 </p>
 
-<!-- Stats Section -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/ChathuminiBandara?label=Followers&style=for-the-badge&color=0B0F19&logoColor=FF7EB6" />
-  <img src="https://img.shields.io/github/stars/ChathuminiBandara?label=Total%20Stars&style=for-the-badge&color=0B0F19&logoColor=FF7EB6" />
-  <img src="https://komarev.com/ghpvc/?username=ChathuminiBandara&label=Profile%20Views&style=for-the-badge&color=0B0F19" />
-</p>
+<p align="center">✦ ───────────── ✦</p>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=FF7EB6&center=true&vCenter=true&width=800&lines=Building+beautiful+things+with+code+✦;Founder+✦+Developer+✦+Designer;Clean+Code+•+Great+Design+•+Real+Impact" />
 </p>
+<p align="center">✦ ───────────── ✦</p>
 
 ---
 <div align="center">
